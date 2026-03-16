@@ -48,7 +48,7 @@ graph LR
 ---
 
 ## 📫 CONNECT / REQUEST ACCESS
-* **Upwork Professional Profile**: [Hire an Expert](https://www.upwork.com/)
+* **Upwork Professional Profile**: [Hire an Expert](https://www.upwork.com/freelancers/~0127b30cbbec080ff0)
 * **Technical Intelligence**: [StockFlow Substack](https://stockflowai.substack.com)
 
 ---
