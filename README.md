@@ -1,17 +1,7 @@
-<div align="center">
-
 # ⚡ STOCKFLOW | SYSTEMS ORCHESTRATOR ⚡
-### *Engineering Autonomous Multi-Agent Workflows with OpenClaw*
-
-<p align="center">
-  <img src="[https://img.shields.io/badge/Status-Operational-success?style=for-the-badge&logo=statuspage&logoColor=white](https://img.shields.io/badge/Status-Operational-success?style=for-the-badge&logo=statuspage&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Framework-OpenClaw-blue?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Framework-OpenClaw-blue?style=for-the-badge&logo=git&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Focus-Multi--Agent--Systems-gold?style=for-the-badge](https://img.shields.io/badge/Focus-Multi--Agent--Systems-gold?style=for-the-badge)" />
-</p>
+### Engineering Autonomous Multi-Agent Workflows with OpenClaw
 
 ---
-
-</div>
 
 ## 🎯 MISSION BRIEFING
 I am a **Multi-Agent Systems (MAS) Architect** specializing in turning high-level AI logic into stable, production-ready operational infrastructure. My expertise lies in orchestrating complex autonomous swarms that navigate the gap between raw data and actionable intelligence.
@@ -26,37 +16,25 @@ This is my primary operational framework built on **OpenClaw**. It manages a spe
 * **Logical Arbitrage**: Multi-step verification and trend analysis using MAS logic.
 * **Invisible UI Generation**: Dynamic content creation and automated cross-platform publishing.
 
-> [!TIP]
+> [!IMPORTANT]
 > **Live Action:** This system currently powers the [StockFlow Intelligence Alpha Substack](https://stockflow.substack.com/), automating the entire workflow from reconnaissance to final report delivery.
 
 ---
 
 ## 🛠️ TECHNICAL ARSENAL
+
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Core Framework** | **OpenClaw (MAS Orchestration)**, Python 3.10+ |
-| **Automation** | GitHub Actions, API Integration (REST/GraphQL), Cron Optimization |
+| **Automation** | GitHub Actions, API Integration, Cron Optimization |
 | **Deployment** | **Cloudflare Workers**, GitHub Pages, Substack Automation |
-| **Data Logic** | Web Scraping, Sentiment Analysis, SEO Logic Optimization |
+| **Data Logic** | Web Scraping, Sentiment Analysis, SEO Logic |
 
 ---
 
-## 📊 SYSTEM ARCHITECTURE (The Logic)
+## 📫 CONNECT / REQUEST ACCESS
+* **Upwork Professional Profile**: [Hire an Expert](https://www.upwork.com/)
+* **Technical Intelligence**: [StockFlow Substack](https://stockflow.substack.com/)
 
-```mermaid
-graph LR
-    A[Data Infiltration] --> B{Squad Commander}
-    B --> C[Analysis Agent]
-    B --> D[Visual Agent]
-    C --> E[Logical Synthesis]
-    D --> E
-    E --> F[Automated Publishing]
-
-📫 CONNECT / REQUEST ACCESS
-Upwork Professional Profile: Hire an Expert
-
-Technical Intelligence: StockFlow Substack
-
-<div align="right">
-<i>End of Transmission. Turning AI friction into operational alpha.</i>
-</div>
+---
+*End of Transmission. Turning AI friction into operational alpha.*
