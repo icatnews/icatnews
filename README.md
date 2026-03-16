@@ -4,9 +4,9 @@
 ### *Engineering Autonomous Multi-Agent Workflows with OpenClaw*
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Operational-success?style=for-the-badge&logo=statuspage&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-OpenClaw-blue?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Multi--Agent--Systems-gold?style=for-the-badge" />
+  <img src="[https://img.shields.io/badge/Status-Operational-success?style=for-the-badge&logo=statuspage&logoColor=white](https://img.shields.io/badge/Status-Operational-success?style=for-the-badge&logo=statuspage&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Framework-OpenClaw-blue?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Framework-OpenClaw-blue?style=for-the-badge&logo=git&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Focus-Multi--Agent--Systems-gold?style=for-the-badge](https://img.shields.io/badge/Focus-Multi--Agent--Systems-gold?style=for-the-badge)" />
 </p>
 
 ---
@@ -42,6 +42,7 @@ This is my primary operational framework built on **OpenClaw**. It manages a spe
 ---
 
 ## 📊 SYSTEM ARCHITECTURE (The Logic)
+
 ```mermaid
 graph LR
     A[Data Infiltration] --> B{Squad Commander}
@@ -50,12 +51,11 @@ graph LR
     C --> E[Logical Synthesis]
     D --> E
     E --> F[Automated Publishing]
----
+📫 CONNECT / REQUEST ACCESS
+Upwork Professional Profile: Hire an Expert
 
-## 📫 CONNECT / REQUEST ACCESS
-* **Upwork Professional Profile**: [Hire an Expert](https://www.upwork.com/)
-* **Technical Intelligence**: [StockFlow Substack](https://stockflow.substack.com/)
+Technical Intelligence: StockFlow Substack
 
 <div align="right">
-  <i>End of Transmission. Turning AI friction into operational alpha.</i>
+<i>End of Transmission. Turning AI friction into operational alpha.</i>
 </div>
