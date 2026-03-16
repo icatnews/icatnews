@@ -27,7 +27,7 @@ This is my primary operational framework built on **OpenClaw**. It manages a spe
 * **Invisible UI Generation**: Dynamic content creation and automated cross-platform publishing.
 
 > [!TIP]
-> **Live Action:** This system currently powers the [StockFlow Intelligence Alpha Substack](在此貼上您的Substack連結), automating the entire workflow from reconnaissance to final report delivery.
+> **Live Action:** This system currently powers the [StockFlow Intelligence Alpha Substack](https://stockflowai.substack.com), automating the entire workflow from reconnaissance to final report delivery.
 
 ---
 
