@@ -50,3 +50,12 @@ graph LR
     C --> E[Logical Synthesis]
     D --> E
     E --> F[Automated Publishing]
+---
+
+## 📫 CONNECT / REQUEST ACCESS
+* **Upwork Professional Profile**: [Hire an Expert](https://www.upwork.com/)
+* **Technical Intelligence**: [StockFlow Substack](https://stockflow.substack.com/)
+
+<div align="right">
+  <i>End of Transmission. Turning AI friction into operational alpha.</i>
+</div>
