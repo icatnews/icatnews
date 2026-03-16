@@ -45,8 +45,10 @@ This is my primary operational framework built on **OpenClaw**. It manages a spe
 ```mermaid
 graph LR
     A[Data Infiltration] --> B{Squad Commander}
-    B --> C[Analysis Agent]
-    B --> D[Visual Agent]
-    C --> E[Logical Synthesis]
-    D --> E
-    E --> F[Automated Publishing]
+   ## 📫 CONNECT / REQUEST ACCESS
+* **Upwork Professional Profile**: [Hire an Expert](https://www.upwork.com/)
+* **Technical Intelligence**: [StockFlow Substack](https://stockflow.substack.com/)
+
+<div align="right">
+  <i>End of Transmission. Turning AI friction into operational alpha.</i>
+</div>
