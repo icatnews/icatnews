@@ -34,6 +34,19 @@ This is my primary operational framework built on **OpenClaw**. It manages a spe
 
 ---
 
+## 📊 SYSTEM ARCHITECTURE (The Logic)
+
+```mermaid
+graph LR
+    A[Data Infiltration] --> B{Squad Commander}
+    B --> C[Analysis Agent]
+    B --> D[Visual Agent]
+    C --> E[Logical Synthesis]
+    D --> E
+    E --> F[Automated Publishing]
+
+---
+
 ## 📫 CONNECT / REQUEST ACCESS
 * **Upwork Professional Profile**: [Hire an Expert](https://www.upwork.com/)
 * **Technical Intelligence**: [StockFlow Substack](https://stockflowai.substack.com)
