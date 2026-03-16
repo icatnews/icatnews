@@ -1,6 +1,8 @@
 # ⚡ STOCKFLOW | SYSTEMS ORCHESTRATOR ⚡
 ### Engineering Autonomous Multi-Agent Workflows with OpenClaw
 
+![Status](https://img.shields.io/badge/Status-Operational-success?style=for-the-badge) ![Framework](https://img.shields.io/badge/Framework-OpenClaw-blue?style=for-the-badge) ![Focus](https://img.shields.io/badge/Focus-Multi--Agent--Systems-gold?style=for-the-badge)
+
 ---
 
 ## 🎯 MISSION BRIEFING
@@ -17,7 +19,7 @@ This is my primary operational framework built on **OpenClaw**. It manages a spe
 * **Invisible UI Generation**: Dynamic content creation and automated cross-platform publishing.
 
 > [!IMPORTANT]
-> **Live Action:** This system currently powers the [StockFlow Intelligence Alpha Substack](https://stockflowai.substack.com/), automating the entire workflow from reconnaissance to final report delivery.
+> **Live Action:** This system currently powers the [StockFlow Intelligence Alpha Substack](https://stockflowai.substack.com), automating the entire workflow from reconnaissance to final report delivery.
 
 ---
 
@@ -34,7 +36,7 @@ This is my primary operational framework built on **OpenClaw**. It manages a spe
 
 ## 📫 CONNECT / REQUEST ACCESS
 * **Upwork Professional Profile**: [Hire an Expert](https://www.upwork.com/)
-* **Technical Intelligence**: [StockFlow Substack](https://stockflowai.substack.com/)
+* **Technical Intelligence**: [StockFlow Substack](https://stockflowai.substack.com)
 
 ---
 *End of Transmission. Turning AI friction into operational alpha.*
